@@ -1,1 +1,1 @@
-Hi, I'm Tudor! Software developer based in Moldova.
+Software developer based in Moldova.
